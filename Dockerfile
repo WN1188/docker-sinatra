@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER carlad "https://github.com/carlad"
+MAINTAINER wn1188 "https://github.com/WN1188"
 
 # Install packages for building ruby
 RUN apt-get update
